@@ -10,4 +10,8 @@ public extension UIViewController {
     func newTest() {
         ///
     }
+    
+    func newTag() {
+        ///
+    }
 }

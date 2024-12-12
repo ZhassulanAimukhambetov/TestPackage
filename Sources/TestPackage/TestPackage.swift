@@ -14,4 +14,6 @@ public extension UIViewController {
     func newTag() {
         ///
     }
+    
+    func tagTag() {}
 }

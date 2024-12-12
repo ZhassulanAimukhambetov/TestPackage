@@ -6,4 +6,8 @@ public extension UIViewController {
     func test() {
         print("From TestPackage")
     }
+    
+    func newTest() {
+        ///
+    }
 }
